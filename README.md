@@ -108,7 +108,7 @@ A complete sports venue booking platform with online reservations, authenticatio
 # 📫 Let's Connect
 
 * 📧 Email: [mdjuelahmedabdullah@gmail.com](mailto:mdjuelahmedabdullah@gmail.com)
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/juelahmed)
+* 💼 LinkedIn: [https://www.linkedin.com/in/juelahmed](https://www.linkedin.com/in/juelahmed)
 * 🌐 Portfolio: 
 
 ---
